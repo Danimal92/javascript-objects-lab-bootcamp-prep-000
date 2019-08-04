@@ -1,4 +1,5 @@
-/*global describe, it */
+recipes = {}
+
 
 function updateObjectWithKeyAndValue(object, key, value){
   
